@@ -1,2 +1,2 @@
-# DataSpecialization
-Tasks for Coursera
+# datasciencecoursera
+Data Science Specialization, Tasks for Coursera
